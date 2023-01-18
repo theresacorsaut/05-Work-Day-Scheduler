@@ -1,6 +1,8 @@
 # 05-Work-Day-Scheduler
 
-URL:
+URL: https://theresacorsaut.github.io/05-Work-Day-Scheduler/
+
+**Website is only presenting README, had issues getting folder uploaded through Git Bash, please use index.html, script.js, and style.css to open webpage in browser. I'm sorry!!!
 
 
 #User Story
