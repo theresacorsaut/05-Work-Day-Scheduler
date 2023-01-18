@@ -23,4 +23,5 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-![Untitled_ Jan 17, 2023 9_01 PM (1)](https://user-images.githubusercontent.com/118020831/213072460-05dfd28e-d572-44da-8b77-79d3fb2cc63b.gif)
+
+![Untitled_ Jan 17, 2023 9_13 PM](https://user-images.githubusercontent.com/118020831/213074850-9351ddb2-d0a4-4e64-8bee-4f318882df78.gif)
