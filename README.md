@@ -1,5 +1,8 @@
 # 05-Work-Day-Scheduler
 
+URL:
+
+
 #User Story
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
@@ -19,3 +22,5 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+![Untitled_ Jan 17, 2023 9_01 PM (1)](https://user-images.githubusercontent.com/118020831/213072460-05dfd28e-d572-44da-8b77-79d3fb2cc63b.gif)
